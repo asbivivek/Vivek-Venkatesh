@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a dedicated Power BI Developer, I thrive on building custom <br>business intelligence solutions that enable organizations to make<br>data-driven decisions. With a keen eye for detail and a passion <br>for visual storytelling, I specialize in creating interactive dashboards <br>and reports that highlight key performance indicators and help users <br>uncover valuable insights. Currently, I'm expanding my skills by <br>learning Python and exploring new ways to harness the power of data. I'm eager to collaborate on projects that challenge me to grow as a data professional while offering measurable value to clients.
+As a dedicated Power BI Developer, I thrive on building custom business intelligence solutions that enable organizations to make data-driven decisions. With a keen eye for detail and a passion for visual storytelling, I specialize in creating interactive dashboards and reports that highlight key performance indicators and help users uncover valuable insights. Currently, I'm expanding my skills by learning Python and exploring new ways to harness the power of data. I'm eager to collaborate on projects that challenge me to grow as a data professional while offering measurable value to clients.
 
 
 ## 🌐 Socials:
